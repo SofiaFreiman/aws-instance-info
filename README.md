@@ -1,44 +1,28 @@
-\# AWS Instance Info
-
-
+# AWS Instance Info
 
 A simple python Flask app that retrieves AWS EC2 instance metadata using IMDSv2.
 
-
-
-\## Endpoints
-
-
+## Endpoints
 
 GET /
 
 GET /metadata
 
-
-
-\## Requirments
-
-
+## Requirments
 
 Python 3.9+
 
 Flask
 
 
-
-\## Run
-
-
+## Run
 
 pip install -r requrments.txt
 
 python app.py
 
 
-
-\## Port
-
-
+## Port
 
 5000
 
